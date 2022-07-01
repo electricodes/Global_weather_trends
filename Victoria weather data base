@@ -1,0 +1,1 @@
+Select year, avg_temp from city_data where city = 'Victoria' and country = 'Canada'
