@@ -1,0 +1,1 @@
+Select * from global_data where year > 1827 and year < 2014
